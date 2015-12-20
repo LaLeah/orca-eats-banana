@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Leah Joannes</p>
+			<a href="mailto:you@yourdomain.com"><p id="email">joa.lea.88@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objectif</h4>
+			<p>Créer des sites web et des apps mobiles</p>
+			<h4>Expérience</h4>
+			<p>Apprentissage de création de sites web à distance avec Simplon Online</p>
+			<ul>
+				<li>HTML5</li>
+				<li>CSS</li>
+			</ul>
+			<h4>Compétences</h4>
+			    <ul>
+			        <li>Introduction au HTML</li>
+			        <li>La structure de l'HTML: utiliser des listes</li>
+			        <li>La structure de l'HTML : tableaux, "DIVS", ET "SPANS"</li>
+			        <li>Introduction au CSS</li>
+			        <li>Classes CSS CLASSES et IDS</li>
+			        <li>Le positionnemnt des éléments CSS</li>
+			    </ul>
+			<h4>Scolarité</h4>
+			
+			<a href="https://www.codecademy.com/fr/learn/web"><span>Mes badges codacademy</span></a>
+				
+			
+		</div>
+		<div id="footer">
+			<p>17T Sente de l'Aulnay, 76160 Darnétal - France | Tel: 0650610049</p>
+		</div>
+	</body>
+</html>
